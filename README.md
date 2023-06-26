@@ -6,5 +6,5 @@ data analysis and Tableau for visualizations.
 The visualized findings in Tableau
 https://public.tableau.com/app/profile/priyesh.kumar6025
 
-# Written report found on Kaggle
+The written report found on Kaggle
 https://www.kaggle.com/code/priyeshkumar18/citibike-project
